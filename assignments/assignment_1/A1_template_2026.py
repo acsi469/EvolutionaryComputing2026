@@ -1,6 +1,6 @@
 """EC A1 template code - evolving robot morphologies with ARIEL.
 
-WHAT THIS FILE IS
+
 -----------------
 A *demo* file for starting you out with assignment 1. 
 It samples one body at random, decodes it, scores it
